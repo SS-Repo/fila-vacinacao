@@ -1,0 +1,113 @@
+@import "~bootstrap/scss/bootstrap";
+
+*{
+    box-sizing: border-box;
+ }
+
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --color-primary:#1351b4;
+    --color-sendary:#0b2e66;
+}
+
+.nav-logo{
+    margin-top: 2%;
+}
+.nav-main{
+    margin-top: 0.5%;
+    box-shadow: 3px 5px 5px rgb(167, 167, 167);
+}
+
+.main{
+    font-size: 130%;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: var(--color-primary);
+    font-size: 93%;
+    font-weight: 400;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: var(--secondary-color);
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+    color: var(--color-sendary);
+}
+
+
+.main-button{
+    background-color: var(--color-primary);
+    border-radius: 1.25rem;
+    font-weight: 700;
+}
+
+.main-button:hover{
+    background-color: var(--color-primary);
+}
+
+.img-banner{
+    margin-top: 3%;
+}
+
+.texto-titulo{
+    margin-top: 3%;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'New Tegomin', serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.tabela-grupos{
+    margin-top: 3%;
+}
+
+.regras{
+    margin-top: 3%;
+    text-align: center;
+    font-size: 120%;
+}
+
+.tabela-resultados{
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+.footer{
+    margin-top: 3%;
+    background-color: #071d41;
+    color: white;
+    padding-bottom: 1%;
+}
+
+.img-footer{
+    margin-top: 3%;
+    margin-left: -3%;
+}
+
+.final{
+    background-color: #031024;
+    color:white;
+    padding: 1%;
+    text-align: center;
+    font-size: 90%;
+}
+
+.fa-solid {
+    color:#1351b4;
+}
+
+.icon{
+    letter-spacing: 0.5rem;
+}
+
+
+
+
