@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+# Fila de Vacinação - Projeto 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto criar um algoritmo de ordenação a partir de um arquivo json e uma landing page.
 
-## Available Scripts
+Requisitos do Projeto:
 
-In the project directory, you can run:
+- SPA
+- Node
+- NPM
+- Html,Sass
+- Bootstrap
+- Javascript,ECMAScript
+- Mock
+- REACT.js
+- Mobile First
 
-### `npm start`
+## Links Uteis
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://getbootstrap.com/">Bootstrap</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<a href="https://pt-br.reactjs.org/">REACT.js</a>
 
-### `npm test`
+## Como inciar o Projeto ?
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Clone o projeto ou faça o download dos pacotes e descompacte o arquivo.
+Inicie o VSCode ou sua IDE Favorita.
 
-### `npm run build`
+Abra o terminal de digite:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+`
+cd fila-vacinação
+`
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Dentro da pasta dioshopping digite:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+`
+npm install
+`
 
-### `npm run eject`
+Para instalar todos o pacotes necessários para o funcionamento do projeto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Para iniciar o server digite:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`
+npm start
+`
+## Host
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+https://fila-vacinacao.vercel.app/
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## PREVIEW
 
-## Learn More
+Browser
+![fila-vacinacao-1](https://user-images.githubusercontent.com/23404398/174596460-cce37cd1-2a7e-4d80-a8c8-b82ffac6ac1b.jpg)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Mobile
+![fila-vacinacao-5](https://user-images.githubusercontent.com/23404398/174596550-14f3d4ab-c97f-4060-986c-04b9c9a5d255.jpg)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+email:sergio.desenvolvedor.web@gmail.com
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
