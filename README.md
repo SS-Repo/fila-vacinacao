@@ -1,4 +1,4 @@
-# Fila de Vacinação - Projeto 
+# Fila de Vacinação 
 
 Projeto criar um algoritmo de ordenação a partir de um arquivo json e uma landing page.
 
